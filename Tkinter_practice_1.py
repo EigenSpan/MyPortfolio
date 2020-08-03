@@ -1,4 +1,4 @@
-#Tkinter practice 1
+#Tkinter Basic Calculator
 
 from tkinter import *
 
