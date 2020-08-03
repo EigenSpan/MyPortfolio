@@ -1,11 +1,14 @@
 # 						NOT VERY GOOD GAME
-#					   --------------------
+#					       --------------------
 
 #   Developed By 
 # ------------------
 # Garrett Leigh Moon
 # Kirsten Anne Moon
 
+
+# Note the game is Absolutely incomplete. It is fully playable but some functionality isnt there. It shouldn't ever really crash
+# I am continuing to fix the bugs in this game and polish it off as well I am completly remaking the game fully in object oriented programming
 
 
 # 				  BUGS TO FIX / THINGS TO IMPLEMENT
